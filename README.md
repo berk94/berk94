@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - :microphone: &nbsp; Fun fact: I've sung in multiple choirs as a lower bass for around 4 years
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=berk94&show_icons=true&count_private=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=berk94&show_icons=true&count_private=true&theme=tokyonight" />
 
-<img align="right" margin="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berk94&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berk94&layout=compact&theme=tokyonight" />
