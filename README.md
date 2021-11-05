@@ -10,13 +10,13 @@ Here are some ideas to get you started:
 
 - 🔭 &nbsp; I’m currently working on **designing and scaling up our backend at [TeachFX](https://teachfx.com/)**.
 
-- :computer: &nbsp; I’m currently using **Django, Airflow, React, Tensorflow**.
+- :computer: &nbsp; I’m currently using **Django, Airflow, React, Tensorflow and Bigquery**.
 
 - 💬 &nbsp; Ask me about **espresso, alternative rock, photography, algorithms, and machine learning**!
 
 - 📫 &nbsp;Feel free to reach me at **<kberkkocabagli@gmail.com>**
 
-- :microphone: &nbsp; Fun fact: I've sung in multiple choirs as a lower bass for around 4 years
+- :microphone: &nbsp; Fun fact: I've sung in multiple choirs as a lower bass for around 4 years, and continue singing solo with my guitar.
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=berk94&show_icons=true&count_private=true&theme=tokyonight" />
